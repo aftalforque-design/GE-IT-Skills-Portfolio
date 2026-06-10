@@ -6,7 +6,15 @@ Hi! I'm Faith, an aspiring CPA-Lawyer and student leader passionate about commun
 
 This portfolio showcases projects that demonstrate my ability to combine creativity with organization and purpose. Guided by the belief that we should **"Grow through what you go through,"** I approach every challenge as an opportunity to learn, improve, and make a meaningful impact.
 
-## 🗃️ Branding
+## 🗃️ Projects
 **Professional Banner**
 ![Professional Banner](./VISUALS/Alforque-Banner.png) 
-> this dbvfjhhdsbjk
+> reflection here
+
+**Promotional Post**
+![Promotional Video](./VISUALS/Promotional-Post.png) 
+> reflection here
+
+**Introduction Video**
+![Introduction Video](./MEDIA/Introduction-Video.mp4) 
+> reflection here
