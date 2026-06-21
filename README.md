@@ -78,25 +78,34 @@ I prompted an AI discovery tool to summarize recent literature on waste manageme
 
 ### Data Analytics & Visual Report
 
-#### Dataset Focus: Davao City Waste Generation and Segregation Index (Mock CSV Analysis)
+#### Dataset Focus: Davao City Waste Generation and Segregation Trends (Mock CSV Analysis)
+
+---
 
 #### 1. Data Cleaning Protocol Log
-- **Raw Input Problem:** The CSV file contained missing values for several barangays in 2023–2024, inconsistent waste classification labels (e.g., "biodegradable", "bio-waste", "organic waste"), and mixed numerical formats for waste volume (kg vs metric tons).
+
+- **Raw Input Problem:** The dataset contained inconsistent formatting, including mixed units (kg vs metric tons), missing values for several barangays, and duplicated monthly entries for certain waste categories.
 - **AI Cleaning Instruction:**  
-  `"Scan this dataset. Identify all null values in the 'Waste Volume' column and replace them with the median value per waste category. Standardize all waste classification labels into three categories: Biodegradable, Recyclable, and Residual. Convert all weight measurements into Metric Tons (MT). Remove duplicate barangay-month entries. Output the first 5 rows of the cleaned dataset."`
-- **Result:** Successfully normalized and standardized waste data across multiple barangays in Davao City, ensuring consistent classification and comparable waste volume metrics across reporting periods.
+  `"Identify null values in the 'Waste Volume' column and replace them using the median per waste category. Standardize all units into Metric Tons (MT). Remove duplicate barangay-month entries. Output a cleaned dataset summary of key statistics."`
+- **Result:** Successfully standardized waste records across multiple barangays and normalized unit inconsistencies, producing a clean dataset for visualization.
+
+---
 
 #### 2. Visualizations Generated
-*(Embedded High-Contrast Bar Chart showing Waste Generation Trends vs. Barangay Segregation Compliance Rates in Davao City from 2020-2025)*
 
-[Image Matrix: 2020–2025 Davao City Waste Generation vs. Segregation Compliance Divergence Graph]
+**Chart 1: Monthly Waste Generation Trend (Davao City, 2023–2025)**  
+Ultimately, the data suggests that without targeted local interventions, increasing urban waste generation will continue to outpace current waste management capacity, creating long-term environmental and logistical pressures on the city."
+
+
+**Chart 2: Waste Segregation Compliance by Barangay (%)**  
+
+
+---
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
 
-"The data chart clearly shows a steady increase in total waste generation across Davao City, with a noticeable spike in late 2023 corresponding to higher urban consumption and post-pandemic economic normalization. At the same time, segregation compliance rates show uneven progress, with several barangays lagging significantly behind citywide targets.
+"The cleaned dataset reveals a gradual increase in total waste generation across Davao City from 2023 to 2025, reflecting both population growth and rising consumption patterns. However, segregation compliance remains uneven across barangays, with significant disparities between high-performing and low-performing areas.
 
-While the automated AI analysis initially attributed fluctuations in waste volume to seasonal population shifts alone, human cross-referencing with local LGU reports and environmental monitoring updates indicates that the 2023–2024 period also reflected inconsistent enforcement of segregation policies and limited access to functional Materials Recovery Facilities (MRFs) in some barangays.
+While the AI-generated summary initially attributed fluctuations in waste volume to seasonal changes alone, manual interpretation suggests deeper structural issues such as inconsistent enforcement of segregation policies and limited access to recycling facilities in lower-compliance barangays.
 
-This divergence between rising waste production and stagnant segregation compliance highlights a structural gap in implementation rather than behavior alone. It emphasizes the urgent need for the Davao City LGU, in coordination with DENR and barangay councils, to strengthen waste enforcement systems, expand MRF coverage, and invest in sustained community education campaigns on proper segregation practices.
-
-Ultimately, the data suggests that without targeted local interventions, increasing urban waste generation will continue to outpace current waste management capacity, creating long-term environmental and logistical pressures on the city."
+This highlights the need for stronger LGU-level intervention, particularly in strengthening barangay enforcement systems and expanding community-based waste recovery programs."
