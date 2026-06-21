@@ -22,4 +22,4 @@ Format: Output in clear Markdown with exactly three actionable steps under the h
 
 - **Engine Used:** Canva Magic Media / DALL-E 3
 
-- **Visual Prompt:** "A flat minimalist vector logo of a recycling symbol intertwined with a green leaf and a simplified Davao City skyline. Use a clean blue and green color palette. No gradients, shadows, text, or 3D effects. Government-friendly design with simple geometric shapes and a transparent background.
+- **Visual Prompt:** "A flat minimalist vector logo of a recycling symbol intertwined with a green leaf and a simplified Davao City skyline. Use a clean blue and green color palette. No gradients, shadows, text, or 3D effects. Government-friendly design with simple geometric shapes and a transparent background."
