@@ -53,7 +53,7 @@ Format: Output in clear Markdown with exactly three actionable steps under the h
 
 - **Engine Used:** Canva Magic Media / DALL-E 3
 
-- **Visual Prompt:** "A flat minimalist vector logo of a recycling symbol intertwined with a green leaf and a simplified Davao City skyline. Use a clean blue and green color palette. No gradients, shadows, text, or 3D effects. Government-friendly design with simple geometric shapes and a transparent background.
+- **Visual Prompt:** "A flat minimalist vector logo of a recycling symbol intertwined with a green leaf and a simplified Davao City skyline. Use a clean blue and green color palette. No gradients, shadows, text, or 3D effects. Government-friendly design with simple geometric shapes and a transparent background."
 
 ---
 
@@ -90,7 +90,7 @@ I prompted an AI discovery tool to summarize recent literature on waste manageme
 #### 2. Visualizations Generated
 
 **Chart 1: Monthly Waste Generation Trend (Davao City, 2023–2025)**  
-Ultimately, the data suggests that without targeted local interventions, increasing urban waste generation will continue to outpace current waste management capacity, creating long-term environmental and logistical pressures on the city."
+"Ultimately, the data suggests that without targeted local interventions, increasing urban waste generation will continue to outpace current waste management capacity, creating long-term environmental and logistical pressures on the city."
 
 **Chart 2: Waste Segregation Compliance by Barangay (%)**  
 
