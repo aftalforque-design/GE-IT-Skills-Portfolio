@@ -29,7 +29,7 @@ This portfolio represents my growth as a student, leader, and aspiring professio
 
 --
 
-### The Davao Waste Management Prompt System
+### ➡️ The Davao Waste Management Prompt System
 
 #### 1. System Prompt Template (V3 - Final Optimized)
 
@@ -57,7 +57,7 @@ Format: Output in clear Markdown with exactly three actionable steps under the h
 
 --
 
-### Literature Verification Log
+### ➡️ Literature Verification Log
 
 #### Topic: Waste Management Challenges in Davao City
 
@@ -76,7 +76,7 @@ I prompted an AI discovery tool to summarize recent literature on waste manageme
 
 --
 
-### Data Analytics & Visual Report
+### ➡️ Data Analytics & Visual Report
 
 #### Dataset Focus: Davao City Waste Generation and Segregation Trends (Mock CSV Analysis)
 
