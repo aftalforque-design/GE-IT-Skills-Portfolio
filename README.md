@@ -54,3 +54,49 @@ Format: Output in clear Markdown with exactly three actionable steps under the h
 - **Engine Used:** Canva Magic Media / DALL-E 3
 
 - **Visual Prompt:** "A flat minimalist vector logo of a recycling symbol intertwined with a green leaf and a simplified Davao City skyline. Use a clean blue and green color palette. No gradients, shadows, text, or 3D effects. Government-friendly design with simple geometric shapes and a transparent background.
+
+--
+
+### Literature Verification Log
+
+#### Topic: Waste Management Challenges in Davao City
+
+#### 1. AI-Generated Summary Audit
+
+I prompted an AI discovery tool to summarize recent literature on waste management practices and challenges in Davao City. Below is the verification tracking matrix:
+
+| AI-Generated Statement / Citation | Source Vetted Against | Status | Human Correction / Empirical Note |
+| :--- | :--- | :--- | :--- |
+| "Davao City successfully recycles over 80% of its municipal solid waste through advanced waste processing facilities." | Davao City Solid Waste Management Office Reports | ❌ **Hallucination** | No official report confirms an 80% recycling rate. AI likely overstated local recycling performance and confused waste diversion targets with actual outcomes. |
+| "Improper waste segregation at the household level remains a major challenge in several barangays across Davao City." | Davao City Ecological Solid Waste Management Program Reports | ✅ **Verified** | Confirmed. City reports consistently identify low compliance with waste segregation policies as an ongoing concern. |
+
+#### 2. Critical Reflection on Tool Limitations
+
+"While the AI platform consolidated multiple reports and policy documents into a concise summary, several claims required careful verification. Numerical statistics and performance indicators were especially vulnerable to exaggeration or misinterpretation. However, the tool successfully identified recurring themes such as waste segregation, community participation, and the need for stronger barangay-level implementation. This exercise highlights the value of AI for accelerating literature reviews while reinforcing the necessity of human fact-checking to ensure accuracy, credibility, and responsible policy research."
+
+--
+
+### Data Analytics & Visual Report
+
+#### Dataset Focus: Davao City Waste Generation and Segregation Index (Mock CSV Analysis)
+
+#### 1. Data Cleaning Protocol Log
+- **Raw Input Problem:** The CSV file contained missing values for several barangays in 2023–2024, inconsistent waste classification labels (e.g., "biodegradable", "bio-waste", "organic waste"), and mixed numerical formats for waste volume (kg vs metric tons).
+- **AI Cleaning Instruction:**  
+  `"Scan this dataset. Identify all null values in the 'Waste Volume' column and replace them with the median value per waste category. Standardize all waste classification labels into three categories: Biodegradable, Recyclable, and Residual. Convert all weight measurements into Metric Tons (MT). Remove duplicate barangay-month entries. Output the first 5 rows of the cleaned dataset."`
+- **Result:** Successfully normalized and standardized waste data across multiple barangays in Davao City, ensuring consistent classification and comparable waste volume metrics across reporting periods.
+
+#### 2. Visualizations Generated
+*(Embedded High-Contrast Bar Chart showing Waste Generation Trends vs. Barangay Segregation Compliance Rates in Davao City from 2020-2025)*
+
+[Image Matrix: 2020–2025 Davao City Waste Generation vs. Segregation Compliance Divergence Graph]
+
+#### 3. Human Analytical Narrative (The 'Why' Factor)
+
+"The data chart clearly shows a steady increase in total waste generation across Davao City, with a noticeable spike in late 2023 corresponding to higher urban consumption and post-pandemic economic normalization. At the same time, segregation compliance rates show uneven progress, with several barangays lagging significantly behind citywide targets.
+
+While the automated AI analysis initially attributed fluctuations in waste volume to seasonal population shifts alone, human cross-referencing with local LGU reports and environmental monitoring updates indicates that the 2023–2024 period also reflected inconsistent enforcement of segregation policies and limited access to functional Materials Recovery Facilities (MRFs) in some barangays.
+
+This divergence between rising waste production and stagnant segregation compliance highlights a structural gap in implementation rather than behavior alone. It emphasizes the urgent need for the Davao City LGU, in coordination with DENR and barangay councils, to strengthen waste enforcement systems, expand MRF coverage, and invest in sustained community education campaigns on proper segregation practices.
+
+Ultimately, the data suggests that without targeted local interventions, increasing urban waste generation will continue to outpace current waste management capacity, creating long-term environmental and logistical pressures on the city."
