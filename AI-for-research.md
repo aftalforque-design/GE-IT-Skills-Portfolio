@@ -12,7 +12,7 @@
 #### 2. Visualizations Generated
 
 **Chart 1: Monthly Waste Generation Trend (Davao City, 2023–2025)**  
-Ultimately, the data suggests that without targeted local interventions, increasing urban waste generation will continue to outpace current waste management capacity, creating long-term environmental and logistical pressures on the city."
+"Ultimately, the data suggests that without targeted local interventions, increasing urban waste generation will continue to outpace current waste management capacity, creating long-term environmental and logistical pressures on the city."
 
 **Chart 2: Waste Segregation Compliance by Barangay (%)**  
 
