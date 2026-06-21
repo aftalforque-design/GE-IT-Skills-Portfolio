@@ -27,7 +27,7 @@ This portfolio showcases projects that demonstrate my ability to combine creativ
 ## 👋 That's All!
 This portfolio represents my growth as a student, leader, and aspiring professional. Each project reflects the skills and values I continue to develop, including creativity, communication, and perseverance. As I move closer to my goals, I remain committed to learning, improving, and growing through every experience.
 
---
+---
 
 ### ➡️ The Davao Waste Management Prompt System
 
@@ -55,7 +55,7 @@ Format: Output in clear Markdown with exactly three actionable steps under the h
 
 - **Visual Prompt:** "A flat minimalist vector logo of a recycling symbol intertwined with a green leaf and a simplified Davao City skyline. Use a clean blue and green color palette. No gradients, shadows, text, or 3D effects. Government-friendly design with simple geometric shapes and a transparent background.
 
---
+---
 
 ### ➡️ Literature Verification Log
 
@@ -74,13 +74,11 @@ I prompted an AI discovery tool to summarize recent literature on waste manageme
 
 "While the AI platform consolidated multiple reports and policy documents into a concise summary, several claims required careful verification. Numerical statistics and performance indicators were especially vulnerable to exaggeration or misinterpretation. However, the tool successfully identified recurring themes such as waste segregation, community participation, and the need for stronger barangay-level implementation. This exercise highlights the value of AI for accelerating literature reviews while reinforcing the necessity of human fact-checking to ensure accuracy, credibility, and responsible policy research."
 
---
+---
 
 ### ➡️ Data Analytics & Visual Report
 
 #### Dataset Focus: Davao City Waste Generation and Segregation Trends (Mock CSV Analysis)
-
----
 
 #### 1. Data Cleaning Protocol Log
 
@@ -89,23 +87,16 @@ I prompted an AI discovery tool to summarize recent literature on waste manageme
   `"Identify null values in the 'Waste Volume' column and replace them using the median per waste category. Standardize all units into Metric Tons (MT). Remove duplicate barangay-month entries. Output a cleaned dataset summary of key statistics."`
 - **Result:** Successfully standardized waste records across multiple barangays and normalized unit inconsistencies, producing a clean dataset for visualization.
 
----
-
 #### 2. Visualizations Generated
 
 **Chart 1: Monthly Waste Generation Trend (Davao City, 2023–2025)**  
 Ultimately, the data suggests that without targeted local interventions, increasing urban waste generation will continue to outpace current waste management capacity, creating long-term environmental and logistical pressures on the city."
 
-
 **Chart 2: Waste Segregation Compliance by Barangay (%)**  
-
-
----
 
 #### 3. Human Analytical Narrative (The 'Why' Factor)
 
 "The cleaned dataset reveals a gradual increase in total waste generation across Davao City from 2023 to 2025, reflecting both population growth and rising consumption patterns. However, segregation compliance remains uneven across barangays, with significant disparities between high-performing and low-performing areas.
-
 While the AI-generated summary initially attributed fluctuations in waste volume to seasonal changes alone, manual interpretation suggests deeper structural issues such as inconsistent enforcement of segregation policies and limited access to recycling facilities in lower-compliance barangays.
 
 This highlights the need for stronger LGU-level intervention, particularly in strengthening barangay enforcement systems and expanding community-based waste recovery programs."
